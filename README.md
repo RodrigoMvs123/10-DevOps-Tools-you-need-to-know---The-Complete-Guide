@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=UMQGyeAnfFE
 
 https://raw.githubusercontent.com/RodrigoMvs123/10-DevOps-Tools-you-need-to-know---The-Complete-Guide/main/README.md
 
+https://github.com/RodrigoMvs123/10-DevOps-Tools-you-need-to-know---The-Complete-Guide/blame/main/README.md
+
 Heart of DevOps - CI/CD
 
 Tool
